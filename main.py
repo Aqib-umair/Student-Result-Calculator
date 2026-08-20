@@ -42,9 +42,4 @@ else:
 if english_marks<35 :
     print("English marks are below 35")   
 else:
-     print("pass")
-      
-        
-      
-      
-  
+     print("pass")  
